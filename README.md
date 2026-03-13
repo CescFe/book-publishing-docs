@@ -17,6 +17,8 @@ This repository groups the key documentation artifacts that define architecture,
     - Date: January 20th, 2026
 - `decisions/adr/`
   - Architecture Decision Records (ADRs) documenting accepted technical decisions.
+- `decisions/prd/`
+  - Product Requirement Documents (PRDs) documenting accepted product decisions.
 
 ## License
 
