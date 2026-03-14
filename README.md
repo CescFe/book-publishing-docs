@@ -15,6 +15,8 @@ This repository groups the key documentation artifacts that define architecture,
   - Architecture Decision Records (ADRs) documenting accepted technical decisions.
 - `decisions/prd/`
   - Product Requirement Documents (PRDs) documenting accepted product decisions.
+- `mockups/`
+  - Location for UI wireframes, mockups, and screenshot captures of the main flows.
 
 ## License
 
